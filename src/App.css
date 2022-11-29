@@ -1,0 +1,27 @@
+
+.App {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 7rem 1fr 20rem;
+  grid-template-rows: 5rem 1fr 1fr 1fr;
+  gap: 2rem 2rem;
+}
+
+.Header {
+  grid-column: 2 / 3;
+  position: sticky;
+  top: 0px
+}
+
+.NavDiv {
+  position: fixed;
+}
+
+.CardDisplay{
+  grid-row: 2 / 4;
+  grid-column: 2 / 3;
+}
+
+hr {
+  border-color: rgb(194, 194, 194);
+}

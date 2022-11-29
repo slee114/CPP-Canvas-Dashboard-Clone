@@ -1,0 +1,8 @@
+.CardDisplay {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
+    grid-template-rows: auto;
+    justify-content: start;
+    row-gap: 2rem;
+    column-gap: 2rem;
+}

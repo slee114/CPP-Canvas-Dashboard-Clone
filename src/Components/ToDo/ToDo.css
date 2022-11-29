@@ -1,0 +1,96 @@
+.ToDo {
+    margin-top: 1.7rem;
+    width: 17rem;
+    justify-self: end;
+    text-align: start;
+    justify-self: center;
+}
+
+.ToDoTitle {
+    border-bottom: 1px solid rgb(194, 194, 194);
+    text-align: start;
+}
+
+.RecentFeedbackTitle {
+    border-bottom: 1px solid rgb(194, 194, 194);
+}
+
+.AnnouncementBubble {
+    width: 17rem;
+    display: grid;
+    grid-template-columns:50px 1fr 20px;
+    justify-self: center;
+    margin: 1rem 0 1rem 0;
+}
+
+.text {
+    margin-right: 2rem;
+    font-size: 16px;
+}
+
+.title {
+    text-decoration: underline ;
+    color: #194775;
+}
+
+.class {
+    color: #7a848e;
+    font-size: 15px;
+}
+
+.bullhorn {
+    justify-self: center;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+.FeedbackContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Feedback {
+    padding-top: 12px;
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    width: 16rem;
+    margin-bottom: 1rem;
+}
+
+.FeedbackCheck {
+    color: #0b874b;
+    width: 20px;
+    height: 20px;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.FeedBackText {
+    overflow: hidden;
+    white-space: wrap;
+    text-overflow: ellipsis;
+}
+
+.FeedbackAssignment {
+    color: #194775;
+    font-size: 17px;
+}
+
+.FeedbackClass {
+    font-size: 13px;
+    color: #6B7780;
+}
+
+.FeedbackGrade {
+    font-size: 13px;
+    color: #6B7780;
+}
+
+.FeedbackComments {
+    font-size: 12px;
+    color: #6B7780;
+}

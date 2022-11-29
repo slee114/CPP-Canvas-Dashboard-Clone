@@ -1,0 +1,67 @@
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 17rem;
+    height: 18rem;
+    border-radius: 5px;
+    margin: 0px;
+    display: grid;
+    grid-template-rows: 10rem 6rem 2rem;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.Bottom-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  width: 17rem;
+  justify-items: center;
+}
+
+.text-container {
+  width: 16rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-align: start;
+  margin-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.text-container:hover {
+  text-decoration: underline;
+}
+
+.Class{
+  color: rgb(89, 62, 159);
+}
+
+.Card-a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+.Semester{
+  font-size: 13px;
+}
+
+.c_image {
+  width: 17rem;
+  height: 10rem;
+  border-radius: 5px 5px 0 0;
+  background: rgb(89, 62, 159);
+  opacity: .80;
+}
+
+.image_background {
+  height: 10rem;
+  width: 17rem;
+  background: rgb(89, 62, 159);
+  border-radius: 5px 5px 0 0;
+}
