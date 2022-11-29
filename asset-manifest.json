@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/CPP-Canvas-Dashboard-Clone/static/css/main.bf7225b4.css",
+    "main.css": "/CPP-Canvas-Dashboard-Clone/static/css/main.344c49ff.css",
     "main.js": "/CPP-Canvas-Dashboard-Clone/static/js/main.d991db83.js",
     "static/js/787.6dca8993.chunk.js": "/CPP-Canvas-Dashboard-Clone/static/js/787.6dca8993.chunk.js",
     "static/media/cpp.jpg": "/CPP-Canvas-Dashboard-Clone/static/media/cpp.1f3fe9ed2208f1dd7c4d.jpg",
     "static/media/broncos.jpg": "/CPP-Canvas-Dashboard-Clone/static/media/broncos.bf808d17a989defefe2c.jpg",
     "index.html": "/CPP-Canvas-Dashboard-Clone/index.html",
-    "main.bf7225b4.css.map": "/CPP-Canvas-Dashboard-Clone/static/css/main.bf7225b4.css.map",
+    "main.344c49ff.css.map": "/CPP-Canvas-Dashboard-Clone/static/css/main.344c49ff.css.map",
     "main.d991db83.js.map": "/CPP-Canvas-Dashboard-Clone/static/js/main.d991db83.js.map",
     "787.6dca8993.chunk.js.map": "/CPP-Canvas-Dashboard-Clone/static/js/787.6dca8993.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf7225b4.css",
+    "static/css/main.344c49ff.css",
     "static/js/main.d991db83.js"
   ]
 }
